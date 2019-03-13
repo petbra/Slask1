@@ -9,6 +9,9 @@ namespace Slask1
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Slasktratt");
+
+            //Slasktrattar är vi allihopa
+
         }
     }
 }
